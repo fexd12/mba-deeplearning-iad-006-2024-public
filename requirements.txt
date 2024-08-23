@@ -3,3 +3,7 @@ uvicorn
 scikit-learn
 xgboost
 matplotlib
+ipykernel
+pandas
+Flask
+requests
